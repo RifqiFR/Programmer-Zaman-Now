@@ -1,0 +1,6 @@
+[submodule "Learn-Basic-Java-PZN"]
+	path = Learn-Basic-Java-PZN
+	url = https://github.com/RifqiFR/Learn-Basic-Java-PZN.git
+[submodule "Learn-SpringBoot-PZN"]
+	path = Learn-SpringBoot-PZN
+	url = https://github.com/RifqiFR/Learn-SpringBoot-PZN.git
